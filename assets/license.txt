@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sculpt girl
+* source:	https://sketchfab.com/3d-models/sculpt-girl-8a25ab513f644a6186f4f35d42c38b37
+* author:	Ida Faber (https://sketchfab.com/Ida..Faber)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sculpt girl" (https://sketchfab.com/3d-models/sculpt-girl-8a25ab513f644a6186f4f35d42c38b37) by Ida Faber (https://sketchfab.com/Ida..Faber) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
